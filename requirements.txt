@@ -1,0 +1,19 @@
+scipy==1.10.1
+gensim
+nltk
+Cython
+ijson
+requests
+# fitz
+#
+pdfminer.six
+# pymupdf
+#
+fastapi
+uvicorn
+#
+PyMySQL
+mysql-connector-python
+dbutils
+cryptography
+peewee
